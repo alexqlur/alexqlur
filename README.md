@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |instagram | [@alexqlur](https://instagram.com/alexqlur)|
 |website | [alexqlur.com](https://alexqlur.com)| -->
 
-- twitter  [@alexqlur](https://twitter.com/alexqlur)
-- instagram  [@alexqlur](https://instagram.com/alexqlur)
-- website  [alexqlur.com](https://alexqlur.com)
+ twitter  [@alexqlur](https://twitter.com/alexqlur) <br>
+ instagram  [@alexqlur](https://instagram.com/alexqlur)
+ website  [alexqlur.com](https://alexqlur.com)
 
