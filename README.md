@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Website: [alexqlur.com](https://alexqlur.com)
+twitter: [@alexqlur](https://twitter.com/alexqlur)
+instagram: [@alexqlur](https://instagram.com/alexqlur)
+website: [alexqlur.com](https://alexqlur.com)
