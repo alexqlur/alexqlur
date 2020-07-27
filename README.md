@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 twitter: [@alexqlur](https://twitter.com/alexqlur)
+
 instagram: [@alexqlur](https://instagram.com/alexqlur)
+
 website: [alexqlur.com](https://alexqlur.com)
