@@ -4,7 +4,35 @@ Welcome to Writer Plus! This file will guide you through some of Writer Plus's f
 
 ## Why did I develop the app?
 
-James McMinn's Writer is one of my favorite writing tools, but it is buggy and hasn't been upgraded for 4 years. So I decided to develop an enhanced app following it's philosophy, and to keep on improving it according to users' reviews.
+James McMinn's Writer is one of my favorite writing tools, but it is buggy and hasn't been upgraded for 4 years. So I decided to
+develop an enhanced app following it's philosophy, and to keep on improving it according to users' reviews.
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+
+| ------------- |:-------------:| -----:|
+
+| col 3 is      | right-aligned | $1600 |
+
+| col 2 is      | centered      |   $12 |
+
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+
+The outer pipes (|) are optional, and you don't need to make the 
+
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+
+--- | --- | ---
+
+*Still* | `renders` | **nicely**
+
+1 | 2 | 3
+
 
 ## What is the "philosophy" that I mean?
 
