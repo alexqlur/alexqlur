@@ -37,15 +37,10 @@ KEEP IT SIMPLE: That is the idea and philosophy behind Writer Plus. Writing shou
 ## What are the new features?
 
   - Android Material Design
-
   - Folder (Long press the "+" button)
-
   - Undo & Redo
-
   - Style: Font, Night Mode
-
   - Share
-
   - And many more...
 
 ## Where are my files located?
@@ -75,15 +70,10 @@ If you have found it useful, then please give it a high rating on the Android ma
 You can do ~~Scratch~~, *italic*, **bold** or even ***both***!
 
   + Writer does lists too!
-
   + Weee!
-
   - They can start with a + or a -
-
   - I like the dashes more.
-
  1. Numbered lists too!
-
  2. Lots of lists
 
   > Writer also supports quotes.
