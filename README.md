@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 
-**alexqlur/alexqlur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**alexqlur/alexqlur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 `Here are some ideas to get you started:`
 
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- |Site|link|
+|Site|link|
 |:------|:--------|
 |twitter | [@alexqlur](https://twitter.com/alexqlur)|
 |instagram | [@alexqlur](https://instagram.com/alexqlur)|
