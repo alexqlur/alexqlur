@@ -24,30 +24,3 @@
  Twitter:  [@alexqlur](https://twitter.com/alexqlur) <br>
  Instagram:  [@alexqlur](https://instagram.com/alexqlur) <br>
  Website:  [alexqlur.com](https://alexqlur.com) <br>
-
-## Hi there ðŸ‘‹
-
-
-**alexqlur/alexqlur** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ...
-
-|Site|link|
-|:------|:--------|
-|twitter | [@alexqlur](https://twitter.com/alexqlur)|
-|instagram | [@alexqlur](https://instagram.com/alexqlur)|
-|website | [alexqlur.com](https://alexqlur.com)|
-
- Twitter:  [@alexqlur](https://twitter.com/alexqlur)
- Instagram:  [@alexqlur](https://instagram.com/alexqlur) 
- Website:  [alexqlur.com](https://alexqlur.com)
-
