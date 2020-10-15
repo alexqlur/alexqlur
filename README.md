@@ -37,11 +37,11 @@ KEEP IT SIMPLE: That is the idea and philosophy behind Writer Plus. Writing shou
 ## What are the new features?
 
   - Android Material Design
-  - Folder (Long press the "+" button)
+      - Folder (Long press the "+" button)
   - Undo & Redo
-  - Style: Font, Night Mode
-  - Share
-  - And many more...
+   - Style: Font, Night Mode
+      - Share
+         - And many more...
 
 ## Where are my files located?
 
