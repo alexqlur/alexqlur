@@ -21,6 +21,6 @@
 |instagram | [@alexqlur](https://instagram.com/alexqlur)|
 |website | [alexqlur.com](https://alexqlur.com)| -->
 
- Twitter:  [@alexqlur](https://twitter.com/alexqlur) <br>
+ Twitter:  [@alexqlur](https://twitter.com/alexqlur) 
  Instagram:  [@alexqlur](https://instagram.com/alexqlur) <br>
- Website:  [alexqlur.com](https://alexqlur.com) <br>
+ Website:  [alexeysokolov.space](https://alexeysokolov.space) <br>
