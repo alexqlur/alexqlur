@@ -22,5 +22,5 @@
 |website | [alexqlur.com](https://alexqlur.com)| -->
 
 Twitter:  [@alexqlur](https://twitter.com/alexqlur)  
-Instagram:  [@alexqlur](https://instagram.com/alexqlur) <br>
-Website:  [alexeysokolov.space](https://alexeysokolov.space) <br>
+Instagram:  [@alexqlur](https://instagram.com/alexqlur)  
+Website:  [alexeysokolov.space](https://alexeysokolov.space)  
